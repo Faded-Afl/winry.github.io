@@ -33,3 +33,12 @@ body {
     top: 500px
 
 }
+
+.widget1 {
+/*    height: 150px;
+    width: 200px;*/
+    position: absolute;
+    right: 10;
+    top: 500px
+
+}
