@@ -20,6 +20,8 @@ Name | Description | Usage
 `dog` | Show random dog! | `c!dog`
 `cat` | Show random cat! | `c!cat`
 `birb` | Show random birb! | `c!birb`
+`bunny` | Show random bunnies! | `c!bunny`
+`anime` | Show random anime images! | `c!anime`
 
 ## Memes (2)
 Name | Description | Usage
@@ -33,3 +35,7 @@ Name | Description | Usage
 `boobs` | Shows random boobs! | `c!boobs`
 `butts` | Shows random butts! | `c!butts`
 `pussy` | Shows random pussy! | `c!pussy`
+`girls` | Shows random girls naked! | `c!girls`
+`catsu` | Shows random cat girls! | `c!catsu`
+`dick` | Shows random dick images! | `c!dick`
+`pantsu` | Shows random anime images on panties! | `c!pantsu`
